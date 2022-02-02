@@ -8,6 +8,7 @@ import { SkillsComponent } from './components/skills/skills.component';
 import { WorkExperienceComponent } from './components/work-experience/work-experience.component';
 import { CertificatesComponent } from './components/certificates/certificates.component';
 import { ReferenceComponent } from './components/reference/reference.component';
+import { HomeComponent } from './components/home/home.component';
 
 
 @NgModule({
@@ -18,6 +19,7 @@ import { ReferenceComponent } from './components/reference/reference.component';
     WorkExperienceComponent,
     CertificatesComponent,
     ReferenceComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,

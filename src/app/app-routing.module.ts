@@ -6,6 +6,7 @@ import { EducationComponent } from './components/education/education.component';
 import { ReferenceComponent } from './components/reference/reference.component';
 import { SkillsComponent } from './components/skills/skills.component';
 import { WorkExperienceComponent } from './components/work-experience/work-experience.component';
+import { HomeComponent } from './components/home/home.component';
 
 const routes: Routes = [
   { path: "", redirectTo: "/home", pathMatch: "full" },
